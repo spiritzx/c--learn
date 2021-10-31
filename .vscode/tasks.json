@@ -7,6 +7,8 @@
       "args": [
         "-g",
         "${file}",
+        "-I", "D:\\c++\\h",
+        "D:\\c++\\lib\\*",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
       ],
